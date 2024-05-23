@@ -1,0 +1,22 @@
+.calculator{
+  background-color: #083a74;
+  width: 100%;
+  height: 5vh;
+}
+
+#heading{
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 1vh;
+}
+
+.container{
+  height: 90vh;
+  border: 1px solid black;
+  width: 60%;
+  border-radius: 5px;
+}
+
+
+
