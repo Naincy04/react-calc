@@ -1,4 +1,4 @@
-**Basic Calculator using React and Bootstrap**
+# Basic Calculator using React and Bootstrap
 
 ---
 
